@@ -11,6 +11,7 @@
 
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/t/paulocp-tech/paulocp-tech)](https://img.shields.io)
 ![Python - Version](https://img.shields.io/badge/python-3.10-green) [![License - MIT](https://img.shields.io/badge/license-PSF--2.0-9400d3.svg)](https://spdx.org/licenses/PSF-2.0.html)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Django)
 
 
 
