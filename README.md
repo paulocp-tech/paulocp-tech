@@ -3,7 +3,7 @@
 - My name is Paulo César and i'm a Python, from SP, Brazil 🇧🇷
 
 ## About Me
-- Content creator at [@buildrun.tech](https://github.com/paulocp-tech)
+- Content creator at [@paulocp-tech](https://github.com/paulocp-tech)
 
 
 ## My Techs
